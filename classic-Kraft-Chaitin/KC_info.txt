@@ -1,0 +1,8 @@
+This is one of the standard ways to produce a prefix-free code uppon code-length specificatiuons received online. See:
+
+Compression of data streams down to their information content
+George Barmpalias and Andy Lewis-Pye
+IEEE Transactions on Information Theory Volume 65, Issue 7 (2019).
+http://arxiv.org/abs/1710.02092
+
+for details.

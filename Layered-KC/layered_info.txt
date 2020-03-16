@@ -1,0 +1,7 @@
+This is the main encoding method from: 
+
+Compression of data streams down to their information content
+George Barmpalias and Andy Lewis-Pye
+IEEE Transactions on Information Theory Volume 65, Issue 7 (2019).
+
+set to code random streams, for demonstration, and producing a code-tree.

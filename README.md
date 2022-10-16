@@ -9,4 +9,5 @@ IEEE Transactions on Information Theory Volume 65, Issue 7 (2019).
 
 done by G. Barmpalias and Chen Shichao. Since this has the Kraft-Chaitin 
 prefix-free coding as a subroutine, an isolated file with this simpler code is included.
-![kcode_gal_4](https://user-images.githubusercontent.com/4204057/196049677-eaa385e2-e4a0-4933-8e54-90a99e6bf188.jpg)
+
+![kcode_gal_6](https://user-images.githubusercontent.com/4204057/196049720-db9e11e9-e2d7-478a-baa3-227afec09b7c.jpg)

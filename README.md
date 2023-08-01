@@ -4,7 +4,9 @@ Adaptive binary stream prefix-free encoding (also the  Kraft-style code)
 Implementation of a coding method from:
 
 [Compression of data streams down to their information content](https://arxiv.org/abs/1710.02092) 
-George Barmpalias and Andy Lewis-Pye. 
+
+G. Barmpalias and A. Lewis-Pye
+
 IEEE Transactions on Information Theory Volume 65, Issue 7 (2019).
 
 by G. Barmpalias and Chen Shichao. Since this has the Kraft-Chaitin 

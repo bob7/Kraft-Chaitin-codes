@@ -1,14 +1,13 @@
 # Kraft-Chaitin-codes
 Adaptive binary stream prefix-free encoding (also the  Kraft-style code)
 
-Implementation of a coding method from:
+Implementation, by G. Barmpalias and Chen Shichao, of a coding method from:
 
 | [Compression of data streams down to their information content](https://arxiv.org/abs/1710.02092) |
 | ------------------|
-|G. Barmpalias and A. Lewis-Pye|
-|IEEE Trans. Inf. Theory Vol. 65(7) 2019|
+|G. Barmpalias and A. Lewis-Pye. IEEE Trans. Inf. Theory Vol. 65(7) 2019|
 
-by G. Barmpalias and Chen Shichao. Since this has the Kraft-Chaitin 
+Since this has the Kraft-Chaitin 
 prefix-free coding as a subroutine, an isolated file with this simpler code is included.
 
 See a simpler presentation in a [Paper by A. Shen](https://arxiv.org/abs/2304.04852)
